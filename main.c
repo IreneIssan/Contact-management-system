@@ -3,7 +3,7 @@
 
 struct contact {
     char name[50];
-    char phno[15]; // Increased size for phone number
+    char phno[15]; 
 };
 
 struct contact cont[100];
